@@ -12,3 +12,7 @@ This is an assignment for 44-563 Web Apps. This repo will be used to store usefu
 ## Recommended Resources
 
 ## Contributors
+Sam Ritter | B.S. Computer Science | NWMSU
+
+![NWMSU Logo](NWMSULogo.png)
+
